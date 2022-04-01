@@ -118,8 +118,7 @@ tr:nth-child(odd){
 #footer{
     background-color: black;
     position: relative;
-    height: 125px;
-    margin-top: 55px;
+    height: 100px;
     clear: both;
 }
 footer h2{
@@ -138,12 +137,9 @@ padding-top: 20px;
 
 video{
     margin-left: 20%;
+
 }
-.footer{
-    background-color: black;
-    position: relative;
-    height: 125px;
-    margin: 100px;px;
-    clear: both; 
-  
+::-webkit-scrollbar{
+display: none;
+
 }
